@@ -44,6 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Filme.cs" />
+    <Compile Include="Imovel_Aluguel.cs" />
+    <Compile Include="Jogo.cs" />
+    <Compile Include="Pedido_Restaurante.cs" />
+    <Compile Include="Personagem_RPG.cs" />
+    <Compile Include="ProdutosEcommerce.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
